@@ -1,8 +1,8 @@
-#Receita de Pudim
+# Receita de Pudim
 
-##Ingredientes:
+## Ingredientes:
 
-###Pudim:
+### Pudim:
 * 1 lata de leite condensado
 
 * 1 lata de leite (mesma medida da lata de leite condensado)
@@ -16,15 +16,15 @@
 * 1/2 xícara de água
 
 
-##Modo de preparo:
+## Modo de preparo:
 
-###Pudim:
+### Pudim:
 
 * 1- Primeiro, bata bem os ovos no liquidificador.
 
 * 2- Acrescente o leite condensado e o leite, e bata novamente.
 
-###Calda:
+### Calda:
 
 * 1- Derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar.
 
